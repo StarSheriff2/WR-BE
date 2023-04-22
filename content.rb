@@ -1,4 +1,4 @@
 puts("qfnxe")
 puts("hpaun")
 puts("wvpat")
-puts("qepwm")
+puts("nnjas")

@@ -1,1 +1,1 @@
-puts("ttmos")
+puts("paseq")

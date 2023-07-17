@@ -1,1 +1,1 @@
-puts("mdmsq")
+puts("ordir")

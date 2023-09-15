@@ -1,2 +1,2 @@
 puts("oipwj")
-puts("uooeq")
+puts("mgnkf")

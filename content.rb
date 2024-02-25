@@ -1,2 +1,0 @@
-puts("oipwj")
-puts("xcbxj")
